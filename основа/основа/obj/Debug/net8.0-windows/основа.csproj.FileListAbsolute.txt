@@ -1,0 +1,16 @@
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.csproj.GenerateResource.cache
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.GeneratedMSBuildEditorConfig.editorconfig
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.AssemblyInfoInputs.cache
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.AssemblyInfo.cs
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.csproj.CoreCompileInputs.cache
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.Form1.resources
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\bin\Debug\net8.0-windows\основа.exe
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\bin\Debug\net8.0-windows\основа.deps.json
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\bin\Debug\net8.0-windows\основа.runtimeconfig.json
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\bin\Debug\net8.0-windows\основа.dll
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\bin\Debug\net8.0-windows\основа.pdb
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.dll
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\refint\основа.dll
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.pdb
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\основа.genruntimeconfig.cache
+D:\КГ\Лаба 2\22 это основная хуйня\основа\основа\obj\Debug\net8.0-windows\ref\основа.dll
